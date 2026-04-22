@@ -95,10 +95,3 @@ DemoBlaze
 
 
 ---
-
-## Execution
-
-Tests are executed using TestNG suite:
-
-```bash
-mvn test
